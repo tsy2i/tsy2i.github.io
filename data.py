@@ -15,7 +15,7 @@ SITE = {
     "location": "Murfreesboro, Tennessee, USA",
     "institution_url": "https://www.mtsu.edu/",
     "email": "Sungyoon.Lee@mtsu.edu",
-    "cv_file": "CV2026Oct_Lee.pdf",
+    "cv_file": "",  # e.g. "CV.pdf" to link a CV again
     "tagline": "Reading, writing and literacy research",
     "bio": (
         "Sungyoon Lee is a literacy researcher whose work examines how children and adolescents "
