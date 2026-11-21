@@ -27,6 +27,3 @@ details{border-bottom:1px solid var(--line);padding:6px 0}summary{cursor:pointer
 .oa-oa{background:#e3f3e6;color:#1d6b32}.oa-green{background:#eef1e0;color:#5a6420}
 .note{color:var(--muted);font-size:14px}
 footer{border-top:1px solid var(--line);color:var(--muted);font-size:14px;padding:18px 0 30px}
-@media (prefers-color-scheme:dark){
-:root{--ink:#e6e8ee;--muted:#a3abbd;--line:#2c3240;--accent:#7cb4e0;--bg:#15181f;--card:#1c2029;--chip:#262c38}
-.oa-oa{background:#1f3a27;color:#9fdcae}.oa-green{background:#33361f;color:#d4d99a}}
